@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "14QBAGNbsvr9O57E1tzL8zxSPjs8JdSo7tWig+TqyBo=",
+  "Source": "netcore-otel",
+  "BasePath": "_content/netcore-otel",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
