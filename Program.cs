@@ -8,9 +8,9 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddDbContext<TodoDb>(opt => opt.UseInMemoryDatabase("TodoList"));
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
-var serviceName = "NetCore-OTEL";
+var serviceName = "NetCore-OTEL-test";
 var serviceVersion = "1.0.0";
-var tracingOtlpEndpoint = "http://13.229.235.78:4318/v1/traces";
+var tracingOtlpEndpoint = "http://10.10.70.113:4318/v1/traces";
 
 // Configure important OpenTelemetry settings, the console exporter
 builder.Services.AddOpenTelemetry()
