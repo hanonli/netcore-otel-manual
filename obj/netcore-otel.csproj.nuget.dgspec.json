@@ -76,6 +76,10 @@
             "OpenTelemetry.Instrumentation.Http": {
               "target": "Package",
               "version": "[1.5.1-beta.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
             }
           },
           "imports": [

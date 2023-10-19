@@ -87,3 +87,7 @@ C:\Users\admin\Desktop\netcore-otel-manual\obj\Debug\net7.0\refint\netcore-otel.
 C:\Users\admin\Desktop\netcore-otel-manual\obj\Debug\net7.0\netcore-otel.pdb
 C:\Users\admin\Desktop\netcore-otel-manual\obj\Debug\net7.0\netcore-otel.genruntimeconfig.cache
 C:\Users\admin\Desktop\netcore-otel-manual\obj\Debug\net7.0\ref\netcore-otel.dll
+C:\Users\admin\Desktop\netcore-otel-manual\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\admin\Desktop\netcore-otel-manual\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\admin\Desktop\netcore-otel-manual\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\admin\Desktop\netcore-otel-manual\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
